@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Thanh Nguyen. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am enthusiasm people who love science 
+- I pursue machine learning and robotic phd degree at KAIST
 
 What else do you need?
 
