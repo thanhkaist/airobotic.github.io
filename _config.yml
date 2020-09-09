@@ -14,11 +14,15 @@ author: Thanh Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Tutorial:
+    - Robotic: "https://beautifuljekyll.com"
+    - Machine learning: "https://www.markdowntutorial.com/"
+    - Deep learning: "https://www.markdowntutorial.com/"
+    - Computer vision: "https://www.markdowntutorial.com/"
+    - Reinforcement learning: "https://www.markdowntutorial.com/"
+  Post by tag: "tags"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "https://sites.google.com/view/aim-thanhnguyen/home"
 
 # --- Logo --- #
 
