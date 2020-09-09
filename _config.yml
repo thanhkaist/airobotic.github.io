@@ -15,11 +15,11 @@ author: Thanh Nguyen
 
 navbar-links:
   Tutorial:
-    - Robotic: "https://beautifuljekyll.com"
-    - Machine learning: "https://www.markdowntutorial.com/"
-    - Deep learning: "https://www.markdowntutorial.com/"
-    - Computer vision: "https://www.markdowntutorial.com/"
-    - Reinforcement learning: "https://www.markdowntutorial.com/"
+    - Robotic: "robotic"
+    - Machine learning: "machinelearning"
+    - Deep learning: "deeplearning"
+    - Computer vision: "computervision"
+    - Reinforcement learning: "reinforcementlearning"
   Post by tag: "tags"
   About Me: "aboutme"
   CV: "https://sites.google.com/view/aim-thanhnguyen/home"
@@ -31,7 +31,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
